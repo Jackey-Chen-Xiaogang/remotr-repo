@@ -1,2 +1,2 @@
 # remotr-repo
-my forst repo
+my first repo
